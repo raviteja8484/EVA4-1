@@ -6,4 +6,4 @@ In this code the design of the convolution network is approached to achieve the 
 Details :
 
 1.	Total no. of parameters : 17,722
-2.	Validation accuracy : 99.47 (16th epoch)
+2.	Validation accuracy : 99.4 (17th epoch)
